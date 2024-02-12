@@ -1,15 +1,18 @@
-h1{
+h1, h2{
     font-size: 30px;
     text-align: center;
-    color: #de7471
+    color: #ffffff
     }
     
     p{
     font-size: 20px;
     text-align: left;
     font-family: Helvetica, sans-serif;
+    color: #fff
     }
     
     body {
-    background-color: #007471;
+    background-color: #000000;
     }
+
+a {color: blue}  
